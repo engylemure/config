@@ -1,4 +1,3 @@
 {
-  "rust-analyzer.cargo-watch.enable": false,
-  "rust-analyzer.serverPath": "/home/jordao/.cargo/bin/rust-analyzer"
+  "rust-analyzer.cargo.allFeatures": true
 }
